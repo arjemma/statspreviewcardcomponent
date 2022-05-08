@@ -43,5 +43,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.emmagine.se)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/arjemma)
+- Website - [Emmagine](https://www.emmagine.se)
+- Frontend Mentor - [@arjemma](https://www.frontendmentor.io/profile/arjemma)
