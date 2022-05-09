@@ -12,8 +12,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
   - [Built with](#built-with)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -28,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/arjemma/statspreviewcardcomponent)
-- Live Site URL: [Add live site URL here](https://arjemma.github.io/statspreviewcardcomponent/)
+- Solution URL: [Github repository](https://github.com/arjemma/statspreviewcardcomponent)
+- Live Site URL: [Github pages](https://arjemma.github.io/statspreviewcardcomponent/)
 
 ## My process
 
