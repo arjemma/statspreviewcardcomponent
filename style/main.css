@@ -115,6 +115,7 @@ body {
     }
 
     .card-image {
+        background-image: url('../images/image-header-desktop.jpg');
         width: 50%;
         height: auto;
         background-position: center;
